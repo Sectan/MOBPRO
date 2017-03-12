@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">En UiDemo</string>
+    <string name="demo_layout_title_1">Ech ben es vertikals LinearLayout</string>
+    <string name="demo_layout_title_2">Ech ben es horizontals LinearLayout</string>
+    <string name="description_1">Wähls es Layout für en demo:</string>
+    <string name="description_2">do beni vell z fuul om dä seich z öbersetze</string>
+    <string name="main_activity_button_1">site met views-demos azeige</string>
+    <string name="main_activity_button_2">d intern zuestand ufezälle</string>
+    <string name="title_1">1. layouts</string>
+    <string name="title_2">2. screen orientierig met öbersetzig</string>
+    <string name="title_3">3. views ond events</string>
+    <string name="title_4">4. spinner ond ListActivity</string>
+    <string name="title_5">5. zuestands-zwöschespicherig</string>
+    <string name="title_6">6. dialog</string>
+</resources>

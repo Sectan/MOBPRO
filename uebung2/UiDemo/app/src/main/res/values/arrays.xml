@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spinner_entries">
+        <item>Francesco Totti</item>
+        <item>Daniele De Rossi</item>
+        <item>Alessandro Florenzi</item>
+        <item>Leandro Paredes</item>
+    </string-array>
+
+    <string-array name="dialoge">
+        <item>Dialog 1</item>
+    </string-array>
+</resources>

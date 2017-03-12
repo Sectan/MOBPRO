@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">UiDemo</string>
+    <string name="title_1">1. Layouts</string>
+    <string name="title_2">2. Screen-Orientation und Übersetzung</string>
+    <string name="title_3">3. Views und Events</string>
+    <string name="title_4">4. Spinner und ListActivity</string>
+    <string name="title_5">5. Zustands-Zwischenspeicherung</string>
+    <string name="title_6">6. Dialoge</string>
+
+    <string name="description_1">Wähle eines der folgenden Layouts für eine Demo:</string>
+    <string name="description_2">Diese Seite hat ein angepasstes Layout für <i>Landscate Mode</i>. <b>Propier es aus!</b> Ausserdem kann sie auch <u>Schweizerdeutsch</u>: Stelle die Sprache im Emulator auf Deutsch (Schweiz) um, und starte die App erneut.</string>
+
+
+    <string name="demo_layout_title_1">Ich bin ein vertikales LinearLayout</string>
+    <string name="demo_layout_title_2">Ich bin ein horizontales LinearLayout</string>
+
+    <string name="main_activity_button_1">Seite mit Views-Demos anzeigen</string>
+    <string name="main_activity_button_2">Internen Zustand hochzählen</string>
+</resources>
